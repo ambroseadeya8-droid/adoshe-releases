@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "provider": "github",
+  "owner": "ambroseadeya8-droid",
+  "repo": "adoshe-releases",
+  "releaseType": "release",
+  "checkOnStartup": true,
+  "startupDelayMs": 8000
+}
